@@ -1,0 +1,99 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+body.sunny {
+  background: linear-gradient(to top, #fceabb, #f8b500);
+  transition: background 0.5s ease;
+}
+
+body.cloudy {
+  background: linear-gradient(to right, #bdc3c7, #2c3e50);
+  transition: background 0.5s ease;
+}
+
+body.rainy {
+  background: linear-gradient(to right, #4e54c8, #caccef);
+  transition: background 0.5s ease;
+}
+
+body.clear {
+  /* background: linear-gradient(to right, #2980b9, #6dd5fa); */
+  background: linear-gradient(to right, #ffffff, #e0f7fa);
+  transition: background 0.5s ease;
+}
+
+body.default {
+  background: linear-gradient(to bottom, #a1c4fd, #c2e9fb);
+  /* background: linear-gradient(to right, #eeeeee, #cccccc); */
+  transition: backGround 0.5s ease;
+}
+
+/* styles.css */
+.first {
+  margin-top: 10%;
+  border-bottom: 1px solid grey;
+  height: 10vh;
+  width: 70%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: "1rem";
+  /* background: linear-gradient(to right, #ffffff, #e0f7fa); */
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(6px);
+  color: "#333";
+  border-radius: 10px 10px 0px 0px;
+}
+.second {
+  height: 40vh;
+  width: 70%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1rem;
+  /* background: linear-gradient(to right, #ffffff, #e0f7fa); */
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(6px);
+  color: #333;
+  border-radius: 0px 0px 10px 10px;
+}
+.span1 {
+  font-size: 3rem;
+  font-weight: 500;
+}
+.span3 {
+  font-size: 3rem;
+  font-weight: 500;
+}
+.span2 {
+  font-size: 2rem;
+  font-weight: 500;
+}
+/* Custom media query for screen width <= 480px */
+@media (max-width: 768px) {
+  .first {
+    width: 100%;
+  }
+  .second {
+    width: 100%;
+  }
+  .span1 {
+    font-size: 1.2rem;
+  }
+  .span2 {
+    font-size: 1.2rem;
+  }
+  .span3 {
+    font-size: 0.9rem;
+  }
+}
