@@ -82,7 +82,7 @@ weather-app/
 4. Run `npm start` to launch locally
 
 
-
+---
 
 👤 Author
 Ayush
