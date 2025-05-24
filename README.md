@@ -71,15 +71,16 @@ weather-app/
 
 📸 Screenshots
 ## 📸 Additional Screenshots
-<div align="center">
-  <img src="(./screenshots/img1.png)" width="200" />
-  <img src="./screenshots/img2.png" width="200" />
-  <img src="./screenshots/img3.png" width="200" />
+
+<p align="center">
+  <img src="./screenshots/img1.png" width="200"/>
+  <img src="./screenshots/img2.png" width="200"/>
+  <img src="./screenshots/img3.png" width="200"/>
   <br/>
-  <img src="./screenshots/img4.png" width="200" />
-  <img src="./screenshots/img5.png" width="200" />
-  <img src="./screenshots/img6.png" width="200" />
-</div>
+  <img src="./screenshots/img4.png" width="200"/>
+  <img src="./screenshots/img5.png" width="200"/>
+  <img src="./screenshots/img6.png" width="200"/>
+</p>
 
 
 
