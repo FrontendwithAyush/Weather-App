@@ -16,11 +16,6 @@ A sleek and responsive weather forecast app built using **React.js** and **Boots
 ![Weather App Preview](./screenshots/weather-preview.png) <!-- Add a screenshot named like this in a 'screenshots' folder -->
 
 ---
-📸 Screenshots
-## 📸 Additional Screenshots
-![Weather App Preview](./screenshots/img1.png)
-
-
 
 ## 🚀 Features
 
