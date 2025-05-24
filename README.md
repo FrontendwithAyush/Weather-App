@@ -1,4 +1,8 @@
-# 🌤️ Ayush Weather App
+# 🌤️ Ayush Weather App![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Netlify](https://img.shields.io/badge/Hosted_on-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+
 
 A sleek and responsive weather forecast app built using **React.js** and **Bootstrap**. It uses a weather API to fetch real-time data such as temperature, weather conditions, location, and more — making it a great project for frontend portfolios.
 
