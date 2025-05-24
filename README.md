@@ -29,6 +29,9 @@ A sleek and responsive weather forecast app built using **React.js** and **Boots
 - **JavaScript (ES6)** – Logic and interactivity
 - **Axios / Fetch API** – API calls for weather data
 - **Weather API** – OpenWeatherMap or similar service
+- **Environment Variables** – To store and use your API key securely
+
+
 
 ---
 
