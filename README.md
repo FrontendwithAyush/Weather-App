@@ -70,7 +70,18 @@ weather-app/
 4. Run `npm start` to launch locally
 
 📸 Screenshots
-(Add screenshots of the main UI interface inside a screenshots/ folder and name them like weather-preview.png)
+## 📸 Additional Screenshots
+
+<div align="center">
+  <img src="./screenshots/img1.png" width="200" />
+  <img src="./screenshots/img2.png" width="200" />
+  <img src="./screenshots/img3.png" width="200" />
+  <br/>
+  <img src="./screenshots/img4.png" width="200" />
+  <img src="./screenshots/img5.png" width="200" />
+  <img src="./screenshots/img6.png" width="200" />
+</div>
+
 
 👤 Author
 Ayush
