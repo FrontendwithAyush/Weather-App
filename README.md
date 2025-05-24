@@ -71,7 +71,6 @@ weather-app/
 
 📸 Screenshots
 ## 📸 Additional Screenshots
-
 <div align="center">
   <img src="./screenshots/img1.png" width="200" />
   <img src="./screenshots/img2.png" width="200" />
@@ -81,6 +80,7 @@ weather-app/
   <img src="./screenshots/img5.png" width="200" />
   <img src="./screenshots/img6.png" width="200" />
 </div>
+
 
 
 👤 Author
