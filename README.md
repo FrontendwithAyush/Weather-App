@@ -15,18 +15,7 @@ A sleek and responsive weather forecast app built using **React.js** and **Boots
 
 ![Weather App Preview](./screenshots/weather-preview.png) <!-- Add a screenshot named like this in a 'screenshots' folder -->
 
----
-## 📸 Additional Screenshots
 
-<div align="center">
-  <img src="./screenshots/img1.png" width="200" />
-  <img src="./screenshots/img2.png" width="200" />
-  <img src="./screenshots/img3.png" width="200" />
-  <br/>
-  <img src="./screenshots/img4.png" width="200" />
-  <img src="./screenshots/img5.png" width="200" />
-  <img src="./screenshots/img6.png" width="200" />
-</div>
 
 
 ## 🚀 Features
@@ -81,6 +70,19 @@ weather-app/
    REACT_APP_WEATHER_API_KEY=your_api_key_here
 4. Run `npm start` to launch locally
 ---
+<!-- 🔴 EMPTY LINE IS REQUIRED BELOW! -->
+---
+## 📸 Additional Screenshots
+
+<div align="center">
+  <img src="./screenshots/img1.png" width="200" />
+  <img src="./screenshots/img2.png" width="200" />
+  <img src="./screenshots/img3.png" width="200" />
+  <br/>
+  <img src="./screenshots/img4.png" width="200" />
+  <img src="./screenshots/img5.png" width="200" />
+  <img src="./screenshots/img6.png" width="200" />
+</div>
 
 👤 Author
 Ayush
