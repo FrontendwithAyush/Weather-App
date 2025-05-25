@@ -67,7 +67,7 @@ weather-app/
 1. Clone the repository  
 2. Run `npm install` to install dependencies  
 3. Add your weather API key in `.env`
-REACT_APP_WEATHER_API_KEY=your_api_key_here
+REACT_APP_WEATHER_API_KEY=d1a60da0cdda417bb6d40408253004
 4. Run `npm start` to launch locally  
 
 ---
