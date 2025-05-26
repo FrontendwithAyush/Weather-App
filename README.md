@@ -5,7 +5,7 @@
 
 
 
-A sleek and responsive weather forecast app built using **React.js** and **Bootstrap**. It uses a weather API to fetch real-time data such as temperature, weather conditions, location, and more — making it a great project for frontend portfolios.
+A sleek and responsive weather forecast app built using **React.js** and **Bootstrap**. It uses a weather API to fetch real-time data such as temperature, weather conditions, location, and more.
 
 > 🌐 **Live Demo**: [https://ayushweatherappf.netlify.app/](https://ayushweatherappf.netlify.app/)
 
@@ -24,7 +24,8 @@ A sleek and responsive weather forecast app built using **React.js** and **Boots
 - 🌡️ **Temperature Display** – Current temperature with weather icon
 - 📅 **Date & Time Info** – Shows current date/time of the city
 - 🎨 **Bootstrap Styling** – Clean and responsive UI
-- 🔁 **API Integration** – Uses OpenWeatherMap or other weather API
+- 🔁 **API Integration** – Uses weather API
+- **Auto Detect Location** - Automatically ditect location
 
 ---
 
@@ -34,8 +35,8 @@ A sleek and responsive weather forecast app built using **React.js** and **Boots
 - **Bootstrap** – Responsive layout and styling
 - **JavaScript (ES6)** – Logic and interactivity
 - **Axios / Fetch API** – API calls for weather data
-- **Weather API** – OpenWeatherMap or similar service
-- **Environment Variables** – To store and use your API key securely
+- **Weather API** – Weather Api service
+- **Environment Variables** – To store and use  API key securely
 
 
 
@@ -49,7 +50,6 @@ weather-app/
 │ └── index.html
 ├── src/
 │ ├── components/
-│ │ └── WeatherCard.jsx
 │ ├── App.js
 │ ├── index.js
 │ └── styles.css
